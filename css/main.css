@@ -1,0 +1,35 @@
+body{
+  font-family: 'Raleway', sans-serif;
+  padding: 0;
+  margin: 0;
+}
+.side_menu{
+  width: 30%;
+  background-color: #A3DE23;
+  height: 100%;
+  float:left;
+}
+.intro{
+  border-radius: 50%;
+  width: 100px;
+  margin-left: 150px
+}
+.text{
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+}
+.text1{
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.text2{
+  margin-top: 180px;
+}
+.max{
+  transform: scale(3);
+  margin: 20px;
+  margin-left: 250px;
+}
